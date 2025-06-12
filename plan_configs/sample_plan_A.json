@@ -1,0 +1,13 @@
+{
+    "plan_id": "H1234-001",
+    "plan_name": "CVS Silver PPO",
+    "coverage": {
+        "dental": true,
+        "vision": true,
+        "drug_tier": "Tier 2"
+    },
+    "CMS_codes": {
+        "dental": "D001",
+        "vision": "V005"
+    }
+}
